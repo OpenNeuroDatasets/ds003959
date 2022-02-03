@@ -1,0 +1,29 @@
+{
+    "Name": "Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain",
+    "BIDSVersion": "1.2.2",
+    "License": "CC0",
+    "Authors": [
+        "Andrada Ianus",
+        "Joana Carvalho",
+        "Francisca F Fernandes",
+        "Renata Cruz",
+        "Cristina Chavarrias",
+        "Marco Palombo",
+        "Noam Shemesh"
+    ],
+    "HowToAcknowledge": "Please cite this preprint: Andrada Ianu\u015f, Joana Carvalho, Francisca F. Fernandes, Renata Cruz, Cristina Chavarrias, Marco Palombo, Noam Shemesh, 2021. Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain. bioRxiv doi:https://doi.org/10.1101/2021.08.11.455923",
+    "Funding": [
+        "\u201dla Caixa\u201d Foundation (ID 100010434) and from the European Union\u2019s Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 847648, fellowship code CF/BQ/PI20/11760029",
+        "European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme (Starting Grant, agreement No. 679058)",
+        "European Union\u2019s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 101032056",
+        "UKRI Future Leaders Fellowship grant no. MR/T020296/1",
+        "Champalimaud Centre for the Unknown",
+        "The Vivarium of Champalimaud Centre for the Unknown is a facility of CONGENTO financed by Lisboa Regional Operational Programme (Lisboa 2020), project LISBOA01-0145-FEDER-022170"
+    ],
+    "EthicApprovals": "All animal studies were approved by the competent institutional and national authorities, and performed according to European Directive 2010/63.",
+    "ReferenceAndLinks": [
+        "Please cite this preprint: Andrada Ianu\u015f, Joana Carvalho, Francisca F. Fernandes, Renata Cruz, Cristina Chavarrias, Marco Palombo, Noam Shemesh, 2021. Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain. bioRxiv doi:https://doi.org/10.1101/2021.08.11.455923",
+        "https://www.biorxiv.org/content/10.1101/2021.08.11.455923v1.full"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003959.v1.0.0"
+}
